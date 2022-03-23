@@ -2,7 +2,7 @@
  * Runs the GUI for TicTacToe
  * @author Austin Finell
  * <p> Date Updated: 3/22/2022
- * Test comment
+ * 
  */
 public class Main {
 
