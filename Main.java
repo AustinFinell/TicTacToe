@@ -8,6 +8,9 @@ package TicTacToe;
  */
 public class Main {
 
+	//This is the main method
+	//for the pr
+	
 	public static void main(String[] args) {
 		
 		new GUI();
